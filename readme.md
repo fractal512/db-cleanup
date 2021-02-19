@@ -6,7 +6,7 @@ Wordpress database cleaning up tool. Initial this tool was made specially for sp
 
 Don't forget to make the database backup before using this plugin!
 
-## Preview
+### Preview
 
 ![DB-Cleanup plugin interface](https://github.com/fractal512/db-cleanup/blob/master/blob/assets/db-cleanup.png?raw=true)
 
