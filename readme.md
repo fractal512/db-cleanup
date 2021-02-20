@@ -8,7 +8,7 @@ Don't forget to make the database backup before using this plugin!
 
 ### Preview
 
-![DB-Cleanup plugin interface](https://github.com/fractal512/db-cleanup/blob/master/blob/assets/db-cleanup.png?raw=true)
+![DB-Cleanup plugin interface](/blob/assets/db-cleanup.png?raw=true)
 
 ### Features:
 
